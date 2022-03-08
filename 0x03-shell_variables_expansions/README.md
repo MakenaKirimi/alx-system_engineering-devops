@@ -1,1 +1,3 @@
-Create a script that creates a new global variable
+9.Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+
+POWER and DIVIDE are environment variables
