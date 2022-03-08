@@ -1,5 +1,1 @@
-17.Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
-
-WATER is in base water
-STIR is in base stir.
-The result should be in base bestchol
+8.Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
