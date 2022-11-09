@@ -1,6 +1,12 @@
-0x1A. Application Server
+###  Web stack debugging 2
 
-In this project, I will be deploying the AirBnB website I've developed with my
-fellow ALX students on the server provided by ALX, on
-https://noahchernet.tech/airbnb-dynamic
+## Files
+| Filename | Description |
+| -------- | ----------- |
 
+| `2-app_server-nginx_config` |  Building on your work in the previous tasks, configure Nginx to serve your page from the route /airbnb-onepage/|
+| `3-app_server-nginx_config` |  Nginx must serve this page both locally and on its public IP on port 80.|
+| `4-app_server-nginx_config` |  Building on your work in the previous tasks, configure Nginx to serve your page from the route /airbnb-onepage/|
+| `2-app_server-nginx_config` |  Building on your work in the previous tasks, configure Nginx to serve your page from the route /airbnb-onepage/|
+| `2-app_server-nginx_config` |  Building on your work in the previous tasks, configure Nginx to serve your page from the route /airbnb-onepage/|
+| `2-app_server-nginx_config` |  Building on your work in the previous tasks, configure Nginx to serve your page from the route /airbnb-onepage/|
